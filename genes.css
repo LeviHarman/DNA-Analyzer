@@ -1,0 +1,39 @@
+body
+{
+  background-color:black;
+  color:white;
+}
+h1
+{
+  color:white;
+  font-family: 'Inconsolata';
+}
+h2
+{
+  color:white;
+  font-family: 'Inconsolata';
+}
+p
+{
+  color:white;
+  font-family: 'Inconsolata';
+}
+img
+{
+  position:absolute;
+  right:20px;
+}
+a
+{
+  color:white;
+  font-family: 'Inconsolata';
+}
+button
+{
+  font-family: 'Inconsolata';
+}
+@font-face {
+  font-family: 'RieslingRegular';
+  src: url('fonts/Inconsolata.otf');
+  src: local('Inconsolata'), local('Inconsolata'), url('fonts/Inconsolata.otf') format('truetype');
+}
